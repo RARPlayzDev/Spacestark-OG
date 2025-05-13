@@ -31,6 +31,7 @@ Though simple in structure, this project laid the foundation for what Spacestark
 
 - HTML5
 - CSS
+- SCSS
 - JavaScript (basic)
 
 ---
