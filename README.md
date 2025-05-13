@@ -48,7 +48,8 @@ It represents the first milestone in Spacestark's web evolution.
 
 ## 📜 License
 
-This project is open for viewing but not licensed for redistribution or commercial use.
+© 2021 Spacestark — All Rights Reserved.  
+This project is not open-source. Redistribution, copying, or commercial use is prohibited without explicit permission.
 
 ---
 
